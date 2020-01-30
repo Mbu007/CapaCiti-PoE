@@ -1,0 +1,12 @@
+body {
+    background: wheat;
+}
+
+h3 {
+    color: tomato;
+}
+
+button {
+    border-radius: 25px;
+    size: 23px;
+}

@@ -1,0 +1,86 @@
+fieldset {
+    text-align: center;
+}
+
+ body {
+     background-image: url(skul.jpg);
+ }
+
+ h1 {
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 60px;
+    color: white;
+    text-decoration: underline;
+    background: orange;
+    margin: 10px;
+    padding: 0px;
+}
+
+b {
+    color: beige;
+}
+
+.navbar {
+    background: lightskyblue;
+    padding: 15px 17px;
+    margin: 15px;
+    float: right;
+    font-size: 20px;
+    overflow: hidden;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 9px;
+}
+
+li {
+    color: white;
+    font-family: 'Courier New';
+    font-size: 30px;
+    text-align: center;
+}
+
+.navbar a {
+    color: blueviolet;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+p {
+    font-family: 'Courier New';
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.navbar a:hover {
+    color: goldenrod;
+    background-color: lightseagreen;
+    margin: 0px;
+    padding: 15px;
+    overflow: hidden;
+    color: white;
+}
+
+address {
+    color: white;
+    font-family: 'Courier New';
+    font-size: 27px;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    font-family: 'Courier New';
+    font-size: 20px;
+    text-align: center;
+}
